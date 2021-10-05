@@ -1,4 +1,4 @@
-
+![](eJPT.png)
 # PTS-eJPT-review
 
 Starting out in 2021 I had little knowledge about the art of hacking/pentesting, but I did have the understanding of building computers and some parts of networking. Before studying for the pts/eJPT I was taking the ccna course that David Bombal offered for free in December of 2020, and finished about 10% of the course that I have learned about how a network works, subnetting, binary, hex code, tcp/ip and udp. As of summer of 2021 tryhackme has a pre security path, its gives a good understanding of that. 

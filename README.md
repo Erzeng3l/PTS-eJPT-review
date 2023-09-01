@@ -1,18 +1,18 @@
 ![](eJPT.png)
 # PTS-eJPT-review
 
-Starting out in 2021 I had little knowledge about the art of hacking/pentesting, but I did have the understanding of building computers and some parts of networking. Before studying for the pts/eJPT I was taking the ccna course that David Bombal offered for free in December of 2020, and finished about 10% of the course that I have learned about how a network works, subnetting, binary, hex code, tcp/ip and udp. As of summer of 2021 tryhackme has a pre security path, its gives a good understanding of that. 
+In the beginning of 2021, I embarked on my journey with limited knowledge in the realm of hacking and penetration testing. However, I did possess a foundation in computer building and certain aspects of networking. Prior to delving into the PTP/eJPT certification, I had enrolled in David Bombal's free CCNA course, which I completed approximately 10% of. This course provided insights into networking fundamentals, including network architecture, subnetting, binary and hex coding, as well as TCP/IP and UDP protocols. During the summer of 2021, TryHackMe introduced a pre-security path, which significantly contributed to my understanding of the field.
 
-My training for the eJPT was a bit long it the aspect I was training on 4 platforms to learn from. Going through tryhackme, hackthebox, pts, and the peh from thecybermentor. My recommendation of the completion to take the eJPT would now be start with the pre security and complete beginner on tryhackme and go through all of the pts, but if u want to have more videos to listen to i do recommend watching the cyber mentor, he's really great on teaching the pentesting role. Do you really need to know coding? No, but I do say learn some of the basic and how it works.
+My preparation for the eJPT certification was thorough and involved training across four distinct platforms. I extensively utilized TryHackMe, HackTheBox, the eLearnSecurity PTS course, and The Cyber Mentor's Practical Ethical Hacking (PEH) course. I highly recommend starting with TryHackMe's pre-security and complete beginner paths, progressing through the entire PTS course. For those who prefer video-based learning, The Cyber Mentor offers excellent instruction in pentesting techniques. While coding skills are not mandatory, a grasp of the basics and their functionality is beneficial.
 
-If you really want to do the same training i went through, was pts was at 98% of the course complete, since I had hackthebox retired machines I did lame, legacy, devel, bashed and blue. The Complete Beginner I have completed about 89% of the course. I have only did about 55% of the practical ethical hacker from the cyber mentor.
+For those interested in replicating my training path, I completed 98% of the PTS course, tackled HackTheBox retired machines such as Lame, Legacy, Devel, Bashed, and Blue. I achieved an 89% completion rate in the Complete Beginner path and covered approximately 55% of The Cyber Mentor's Practical Ethical Hacker course.
 
-In May of 2021 I bought the exam to take the test. On the 7th I had 3 days to answer 20 questions. After trying to answer the questions I failed my first attempt. So I got on a grind to help with to problem I was having. After that I gave it a go for my 2nd attempt, and passed it after 9 hours into the exam on the 14th of May, passed.
+In May 2021, I purchased the eJPT exam and had three days to answer 20 questions. Despite an initial failure, I dedicated myself to addressing my shortcomings and successfully passed on my second attempt, which occurred on May 14th.
 
-Would you recommend this to other people? Yes, if your looking into getting into cyber security. It teaches you the skills for both red and blue teaming.
+Would I recommend this certification to others? Absolutely, especially for those aspiring to enter the field of cybersecurity. It equips individuals with skills relevant to both red and blue team roles.
 
-What got you into cyber security? I would say networkchuck, he does some great content that can really hype you up. I did go through all his hacking challenges, that he did.
+What sparked my interest in cybersecurity? NetworkChuck played a significant role, as his engaging content fueled my enthusiasm. I completed all of his hacking challenges.
 
-If you could do anything different what would it be? I wished I would of found tryhackme earlier. 
+If I could change anything about my journey, I would have discovered TryHackMe earlier.
 
-What's your plans after the eJPT? Well, study and grow as a pentester. Currently I'm in-roled in taking the PNPT, I support Heath Adams goal in making test practical and affordable.
+What are my plans after achieving the eJPT certification? I intend to continue my growth as a pentester. Currently, I am enrolled in the PNPT course, supporting Heath Adams' mission to make practical and affordable testing accessible.
